@@ -1,0 +1,3 @@
+Texto random
+
+Test pre-commit
